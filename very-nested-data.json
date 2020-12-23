@@ -1,35 +1,173 @@
 {
  "vLlFS3csq": {
   "id": "vLlFS3csq",
-  "content": "Home",
+  "content": "projects",
   "children": [
    "r2_QCE3iV",
-   "Qm5eeXGEw"
+   "Qm5eeXGEw",
+   "L_lJ0-P-U"
   ]
  },
  "r2_QCE3iV": {
   "id": "r2_QCE3iV",
-  "content": "Recent",
+  "content": "schedule",
   "children": [
-   "eZshFR2JI"
+   "eZshFR2JI",
+   "lMk3w-8Z2"
   ]
  },
  "eZshFR2JI": {
   "id": "eZshFR2JI",
-  "content": "something",
-  "children": []
+  "content": "mindfulness",
+  "children": [
+   "FL1quYplA",
+   "x_l3e2W0r"
+  ]
  },
  "Qm5eeXGEw": {
   "id": "Qm5eeXGEw",
-  "content": "All",
+  "content": "all",
   "children": [
-   "eZshFR2JI",
-   "wKwkOZbRk"
+   "npof_4jB9",
+   "HL-dE1zI_",
+   "cp0u4wt_f"
   ]
  },
- "wKwkOZbRk": {
-  "id": "wKwkOZbRk",
-  "content": "something else",
+ "L_lJ0-P-U": {
+  "id": "L_lJ0-P-U",
+  "content": "timeline",
+  "children": [
+   "Ah9au8Sbt",
+   "uyfolsyes",
+   "-nkfmH-6l"
+  ]
+ },
+ "-nkfmH-6l": {
+  "id": "-nkfmH-6l",
+  "content": "4/12/20 - established 3 principles on mindfulness",
+  "children": [
+   "FL1quYplA",
+   "eZshFR2JI"
+  ]
+ },
+ "npof_4jB9": {
+  "id": "npof_4jB9",
+  "content": "health",
+  "children": [
+   "eZshFR2JI",
+   "lMk3w-8Z2"
+  ]
+ },
+ "FL1quYplA": {
+  "id": "FL1quYplA",
+  "content": "principles",
+  "children": [
+   "NvZGCNyu1",
+   "LrgDWBupu",
+   "r5YV91Km6"
+  ]
+ },
+ "NvZGCNyu1": {
+  "id": "NvZGCNyu1",
+  "content": "patience",
   "children": []
+ },
+ "LrgDWBupu": {
+  "id": "LrgDWBupu",
+  "content": "acceptance",
+  "children": []
+ },
+ "r5YV91Km6": {
+  "id": "r5YV91Km6",
+  "content": "thinking openly",
+  "children": []
+ },
+ "lMk3w-8Z2": {
+  "id": "lMk3w-8Z2",
+  "content": "running",
+  "children": []
+ },
+ "x_l3e2W0r": {
+  "id": "x_l3e2W0r",
+  "content": "it's really cool",
+  "children": []
+ },
+ "HL-dE1zI_": {
+  "id": "HL-dE1zI_",
+  "content": "cooking",
+  "children": [
+   "aO1jouqHx"
+  ]
+ },
+ "aO1jouqHx": {
+  "id": "aO1jouqHx",
+  "content": "fish",
+  "children": [
+   "OEy8gZj4o",
+   "9AWwjeiXV"
+  ]
+ },
+ "OEy8gZj4o": {
+  "id": "OEy8gZj4o",
+  "content": "I'd like a nice deep sea herring",
+  "children": []
+ },
+ "9AWwjeiXV": {
+  "id": "9AWwjeiXV",
+  "content": "I'm thinking about pan frying it",
+  "children": [
+   "vXp4eCHih"
+  ]
+ },
+ "vXp4eCHih": {
+  "id": "vXp4eCHih",
+  "content": "not sure if the pan is the best way to go",
+  "children": []
+ },
+ "uyfolsyes": {
+  "id": "uyfolsyes",
+  "content": "23/12/20 - brainstormed fish project",
+  "children": [
+   "aO1jouqHx"
+  ]
+ },
+ "Ah9au8Sbt": {
+  "id": "Ah9au8Sbt",
+  "content": "23/12/20 - thought of a audio comparison table idea",
+  "children": [
+   "1Ulzwxcb9"
+  ]
+ },
+ "O6JW9j9BM": {
+  "id": "O6JW9j9BM",
+  "content": "headphones, speakers and soundbars are actually quite comparable",
+  "children": [
+   "1Tf7S0dN3",
+   "F_LcRo76o"
+  ]
+ },
+ "1Tf7S0dN3": {
+  "id": "1Tf7S0dN3",
+  "content": "headphones - good isolation",
+  "children": []
+ },
+ "F_LcRo76o": {
+  "id": "F_LcRo76o",
+  "content": "speakers - other people can hear it",
+  "children": []
+ },
+ "1Ulzwxcb9": {
+  "id": "1Ulzwxcb9",
+  "content": "audio comparison",
+  "children": [
+   "O6JW9j9BM"
+  ]
+ },
+ "cp0u4wt_f": {
+  "id": "cp0u4wt_f",
+  "content": "music",
+  "children": [
+   "1Ulzwxcb9"
+  ]
  }
 }

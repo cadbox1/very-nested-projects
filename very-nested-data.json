@@ -3,171 +3,144 @@
   "id": "vLlFS3csq",
   "content": "projects",
   "children": [
-   "r2_QCE3iV",
    "Qm5eeXGEw",
    "L_lJ0-P-U"
   ]
  },
- "r2_QCE3iV": {
-  "id": "r2_QCE3iV",
-  "content": "schedule",
-  "children": [
-   "eZshFR2JI",
-   "lMk3w-8Z2"
-  ]
- },
- "eZshFR2JI": {
-  "id": "eZshFR2JI",
-  "content": "mindfulness",
-  "children": [
-   "FL1quYplA",
-   "x_l3e2W0r"
-  ]
- },
  "Qm5eeXGEw": {
   "id": "Qm5eeXGEw",
-  "content": "all",
+  "content": "topics",
   "children": [
+   "KC4wX_nLy",
    "npof_4jB9",
-   "HL-dE1zI_",
-   "cp0u4wt_f"
+   "62BH1YDr_"
   ]
  },
  "L_lJ0-P-U": {
   "id": "L_lJ0-P-U",
   "content": "timeline",
   "children": [
-   "Ah9au8Sbt",
-   "uyfolsyes",
-   "-nkfmH-6l"
-  ]
- },
- "-nkfmH-6l": {
-  "id": "-nkfmH-6l",
-  "content": "4/12/20 - established 3 principles on mindfulness",
-  "children": [
-   "FL1quYplA",
-   "eZshFR2JI"
+   "FUcJkvXWE",
+   "ovUC6jRs1",
+   "1uFHCMVEA"
   ]
  },
  "npof_4jB9": {
   "id": "npof_4jB9",
-  "content": "health",
+  "content": "fitness",
   "children": [
-   "eZshFR2JI",
-   "lMk3w-8Z2"
+   "TnRTAktlP"
   ]
  },
- "FL1quYplA": {
-  "id": "FL1quYplA",
-  "content": "principles",
+ "TnRTAktlP": {
+  "id": "TnRTAktlP",
+  "content": "weekly schedule",
   "children": [
-   "NvZGCNyu1",
-   "LrgDWBupu",
-   "r5YV91Km6"
+   "dE3tNOH8f",
+   "zq2X1uuYn",
+   "3IChzNQmu",
+   "KYOCkaKSm"
   ]
  },
- "NvZGCNyu1": {
-  "id": "NvZGCNyu1",
-  "content": "patience",
-  "children": []
- },
- "LrgDWBupu": {
-  "id": "LrgDWBupu",
-  "content": "acceptance",
-  "children": []
- },
- "r5YV91Km6": {
-  "id": "r5YV91Km6",
-  "content": "thinking openly",
-  "children": []
- },
- "lMk3w-8Z2": {
-  "id": "lMk3w-8Z2",
-  "content": "running",
-  "children": []
- },
- "x_l3e2W0r": {
-  "id": "x_l3e2W0r",
-  "content": "it's really cool",
-  "children": []
- },
- "HL-dE1zI_": {
-  "id": "HL-dE1zI_",
-  "content": "cooking",
+ "dE3tNOH8f": {
+  "id": "dE3tNOH8f",
+  "content": "weights 3x",
   "children": [
-   "aO1jouqHx"
+   "nu6aJJlcx"
   ]
  },
- "aO1jouqHx": {
-  "id": "aO1jouqHx",
-  "content": "fish",
+ "zq2X1uuYn": {
+  "id": "zq2X1uuYn",
+  "content": "short interval running 2x",
   "children": [
-   "OEy8gZj4o",
-   "9AWwjeiXV"
+   "ZKxQfN-w3"
   ]
  },
- "OEy8gZj4o": {
-  "id": "OEy8gZj4o",
-  "content": "I'd like a nice deep sea herring",
+ "3IChzNQmu": {
+  "id": "3IChzNQmu",
+  "content": "footy training 1x",
+  "children": [
+   "MSwH2uVEz"
+  ]
+ },
+ "KYOCkaKSm": {
+  "id": "KYOCkaKSm",
+  "content": "standup desk every day",
   "children": []
  },
- "9AWwjeiXV": {
-  "id": "9AWwjeiXV",
-  "content": "I'm thinking about pan frying it",
+ "FUcJkvXWE": {
+  "id": "FUcJkvXWE",
+  "content": "15/4/2021 - completed 4 weeks of my fitness schedule. feeling fitter and generally better",
   "children": [
-   "vXp4eCHih"
+   "TnRTAktlP",
+   "MVevhyRzf"
   ]
  },
- "vXp4eCHih": {
-  "id": "vXp4eCHih",
-  "content": "not sure if the pan is the best way to go",
+ "MVevhyRzf": {
+  "id": "MVevhyRzf",
+  "content": "4 weeks of running, footy training and standup desk. was already doing weights",
   "children": []
  },
- "uyfolsyes": {
-  "id": "uyfolsyes",
-  "content": "23/12/20 - brainstormed fish project",
+ "ZKxQfN-w3": {
+  "id": "ZKxQfN-w3",
+  "content": "Tuesday evening and Saturday morning",
   "children": [
-   "aO1jouqHx"
+   "3rPxfF0p1"
   ]
  },
- "Ah9au8Sbt": {
-  "id": "Ah9au8Sbt",
-  "content": "23/12/20 - thought of a audio comparison table idea",
-  "children": [
-   "1Ulzwxcb9"
-  ]
- },
- "O6JW9j9BM": {
-  "id": "O6JW9j9BM",
-  "content": "headphones, speakers and soundbars are actually quite comparable",
-  "children": [
-   "1Tf7S0dN3",
-   "F_LcRo76o"
-  ]
- },
- "1Tf7S0dN3": {
-  "id": "1Tf7S0dN3",
-  "content": "headphones - good isolation",
+ "3rPxfF0p1": {
+  "id": "3rPxfF0p1",
+  "content": "I really enjoy running on Saturday mornings",
   "children": []
  },
- "F_LcRo76o": {
-  "id": "F_LcRo76o",
-  "content": "speakers - other people can hear it",
+ "MSwH2uVEz": {
+  "id": "MSwH2uVEz",
+  "content": "Thursday evening",
   "children": []
  },
- "1Ulzwxcb9": {
-  "id": "1Ulzwxcb9",
-  "content": "audio comparison",
+ "nu6aJJlcx": {
+  "id": "nu6aJJlcx",
+  "content": "Monday, Wednesday and Friday evening",
+  "children": []
+ },
+ "62BH1YDr_": {
+  "id": "62BH1YDr_",
+  "content": "mindfulness essay",
   "children": [
-   "O6JW9j9BM"
+   "yRso7OLI2"
   ]
  },
- "cp0u4wt_f": {
-  "id": "cp0u4wt_f",
-  "content": "music",
+ "yRso7OLI2": {
+  "id": "yRso7OLI2",
+  "content": "not published yet. currently still writing a draft",
+  "children": []
+ },
+ "ovUC6jRs1": {
+  "id": "ovUC6jRs1",
+  "content": "15/3/2021 - started a fitness schedule",
   "children": [
-   "1Ulzwxcb9"
+   "TnRTAktlP",
+   "F79gZVBxz"
+  ]
+ },
+ "F79gZVBxz": {
+  "id": "F79gZVBxz",
+  "content": "added running, footy training and mindfulness to my weights schedule",
+  "children": []
+ },
+ "1uFHCMVEA": {
+  "id": "1uFHCMVEA",
+  "content": "1/8/2020 - started writing a mindfulness essay",
+  "children": [
+   "62BH1YDr_"
+  ]
+ },
+ "KC4wX_nLy": {
+  "id": "KC4wX_nLy",
+  "content": "in progress",
+  "children": [
+   "62BH1YDr_",
+   "npof_4jB9"
   ]
  }
 }

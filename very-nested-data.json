@@ -9,27 +9,17 @@
  },
  "Qm5eeXGEw": {
   "id": "Qm5eeXGEw",
-  "content": "topics",
+  "content": "projects",
   "children": [
-   "KC4wX_nLy",
-   "npof_4jB9",
-   "62BH1YDr_"
+   "zMrLxrGkK",
+   "r7tj1jesZ"
   ]
  },
  "L_lJ0-P-U": {
   "id": "L_lJ0-P-U",
   "content": "timeline",
   "children": [
-   "FUcJkvXWE",
-   "ovUC6jRs1",
    "1uFHCMVEA"
-  ]
- },
- "npof_4jB9": {
-  "id": "npof_4jB9",
-  "content": "fitness",
-  "children": [
-   "TnRTAktlP"
   ]
  },
  "TnRTAktlP": {
@@ -68,14 +58,6 @@
   "content": "standup desk every day",
   "children": []
  },
- "FUcJkvXWE": {
-  "id": "FUcJkvXWE",
-  "content": "15/4/2021 - completed 4 weeks of my fitness schedule. feeling fitter and generally better",
-  "children": [
-   "TnRTAktlP",
-   "MVevhyRzf"
-  ]
- },
  "MVevhyRzf": {
   "id": "MVevhyRzf",
   "content": "4 weeks of running, footy training and standup desk. was already doing weights",
@@ -103,25 +85,10 @@
   "content": "Monday, Wednesday and Friday evening",
   "children": []
  },
- "62BH1YDr_": {
-  "id": "62BH1YDr_",
-  "content": "mindfulness essay",
-  "children": [
-   "yRso7OLI2"
-  ]
- },
  "yRso7OLI2": {
   "id": "yRso7OLI2",
   "content": "not published yet. currently still writing a draft",
   "children": []
- },
- "ovUC6jRs1": {
-  "id": "ovUC6jRs1",
-  "content": "15/3/2021 - started a fitness schedule",
-  "children": [
-   "TnRTAktlP",
-   "F79gZVBxz"
-  ]
  },
  "F79gZVBxz": {
   "id": "F79gZVBxz",
@@ -132,15 +99,306 @@
   "id": "1uFHCMVEA",
   "content": "1/8/2020 - started writing a mindfulness essay",
   "children": [
-   "62BH1YDr_"
+   "iVDyenL4r"
   ]
  },
- "KC4wX_nLy": {
-  "id": "KC4wX_nLy",
-  "content": "in progress",
+ "r7tj1jesZ": {
+  "id": "r7tj1jesZ",
+  "content": "tv",
   "children": [
-   "62BH1YDr_",
-   "npof_4jB9"
+   "Sq-3u4CVv",
+   "lG8vdduF9"
   ]
+ },
+ "lG8vdduF9": {
+  "id": "lG8vdduF9",
+  "content": "favourites",
+  "children": [
+   "7rFwelsx_",
+   "_4UdcRE63",
+   "3g-RvGKdd",
+   "cSBzeW1IP",
+   "T_YXwbcC2",
+   "5uP6R9cyI",
+   "p5ph0Tfq-",
+   "jTHLLPejQ",
+   "fITviEwf2",
+   "sJK1Si1i2",
+   "f7aR5ZLOa",
+   "o779-b-pF",
+   "ghhqFw_Sy",
+   "nPmsQiPy4",
+   "zBxZDPaKC",
+   "4QSv4TDQ0",
+   "Df9o56ECj",
+   "ngOV4Y_Dh",
+   "BV-fjU38a",
+   "HJRBBti-C",
+   "nLmXkrZ45",
+   "SgoS41Gsw",
+   "Tp2bWpzPN",
+   "nnKrp6ri-"
+  ]
+ },
+ "7rFwelsx_": {
+  "id": "7rFwelsx_",
+  "content": "i love you man",
+  "children": []
+ },
+ "Sq-3u4CVv": {
+  "id": "Sq-3u4CVv",
+  "content": "watchlist",
+  "children": [
+   "Fe4AukVKY",
+   "g6JK2JUnO",
+   "68eRSicw2",
+   "Lxk72D25R",
+   "EH1KZ4FlM",
+   "S3h5k3g5b",
+   "rI3cr1sHP",
+   "n6Z3lrXTy",
+   "Gm3jmt1tt",
+   "lA3QkqJ6Z"
+  ]
+ },
+ "Fe4AukVKY": {
+  "id": "Fe4AukVKY",
+  "content": "semi-pro",
+  "children": [
+   "FT1y2_Hjm"
+  ]
+ },
+ "FT1y2_Hjm": {
+  "id": "FT1y2_Hjm",
+  "content": "prime",
+  "children": []
+ },
+ "g6JK2JUnO": {
+  "id": "g6JK2JUnO",
+  "content": "a night at the roxbury",
+  "children": [
+   "_XN7BFTZd"
+  ]
+ },
+ "_XN7BFTZd": {
+  "id": "_XN7BFTZd",
+  "content": "rent on apple tv",
+  "children": []
+ },
+ "68eRSicw2": {
+  "id": "68eRSicw2",
+  "content": "role models",
+  "children": []
+ },
+ "_4UdcRE63": {
+  "id": "_4UdcRE63",
+  "content": "forgetting sarah marshall",
+  "children": []
+ },
+ "3g-RvGKdd": {
+  "id": "3g-RvGKdd",
+  "content": "black mirror",
+  "children": []
+ },
+ "cSBzeW1IP": {
+  "id": "cSBzeW1IP",
+  "content": "stranger things season 1",
+  "children": []
+ },
+ "T_YXwbcC2": {
+  "id": "T_YXwbcC2",
+  "content": "the hateful eight",
+  "children": []
+ },
+ "5uP6R9cyI": {
+  "id": "5uP6R9cyI",
+  "content": "django unchained",
+  "children": []
+ },
+ "sJK1Si1i2": {
+  "id": "sJK1Si1i2",
+  "content": "arrival",
+  "children": []
+ },
+ "Lxk72D25R": {
+  "id": "Lxk72D25R",
+  "content": "the greatest showman",
+  "children": []
+ },
+ "EH1KZ4FlM": {
+  "id": "EH1KZ4FlM",
+  "content": "jojo rabbit",
+  "children": []
+ },
+ "S3h5k3g5b": {
+  "id": "S3h5k3g5b",
+  "content": "hamilton",
+  "children": []
+ },
+ "f7aR5ZLOa": {
+  "id": "f7aR5ZLOa",
+  "content": "atomic blonde",
+  "children": []
+ },
+ "o779-b-pF": {
+  "id": "o779-b-pF",
+  "content": "the other guys",
+  "children": []
+ },
+ "ghhqFw_Sy": {
+  "id": "ghhqFw_Sy",
+  "content": "transformers",
+  "children": []
+ },
+ "zMrLxrGkK": {
+  "id": "zMrLxrGkK",
+  "content": "writing",
+  "children": [
+   "iVDyenL4r"
+  ]
+ },
+ "iVDyenL4r": {
+  "id": "iVDyenL4r",
+  "content": "practicing mindfulness",
+  "children": []
+ },
+ "rI3cr1sHP": {
+  "id": "rI3cr1sHP",
+  "content": "australian dream",
+  "children": []
+ },
+ "nPmsQiPy4": {
+  "id": "nPmsQiPy4",
+  "content": "the boys",
+  "children": []
+ },
+ "zBxZDPaKC": {
+  "id": "zBxZDPaKC",
+  "content": "clarkson's farm",
+  "children": []
+ },
+ "4QSv4TDQ0": {
+  "id": "4QSv4TDQ0",
+  "content": "red hot chilli peppers documentary",
+  "children": [
+   "zS8rqf0Hw"
+  ]
+ },
+ "zS8rqf0Hw": {
+  "id": "zS8rqf0Hw",
+  "content": "https://www.youtube.com/watch?v=7c8PR2ctiZ0",
+  "children": []
+ },
+ "Df9o56ECj": {
+  "id": "Df9o56ECj",
+  "content": "rüfüs du sol - live from joshua tree",
+  "children": [
+   "3wfJmiioU"
+  ]
+ },
+ "3wfJmiioU": {
+  "id": "3wfJmiioU",
+  "content": "https://www.youtube.com/watch?v=Zy4KtD98S2c",
+  "children": []
+ },
+ "n6Z3lrXTy": {
+  "id": "n6Z3lrXTy",
+  "content": "minimalism",
+  "children": [
+   "Veat4bCl-"
+  ]
+ },
+ "Veat4bCl-": {
+  "id": "Veat4bCl-",
+  "content": "netflix",
+  "children": []
+ },
+ "Gm3jmt1tt": {
+  "id": "Gm3jmt1tt",
+  "content": "alone",
+  "children": [
+   "--h6_RZhc"
+  ]
+ },
+ "--h6_RZhc": {
+  "id": "--h6_RZhc",
+  "content": "https://www.sbs.com.au/ondemand/program/alone",
+  "children": []
+ },
+ "ngOV4Y_Dh": {
+  "id": "ngOV4Y_Dh",
+  "content": "the big sick",
+  "children": []
+ },
+ "BV-fjU38a": {
+  "id": "BV-fjU38a",
+  "content": "binging with babish",
+  "children": [
+   "1pAwrwztp"
+  ]
+ },
+ "p5ph0Tfq-": {
+  "id": "p5ph0Tfq-",
+  "content": "pulp fiction",
+  "children": []
+ },
+ "jTHLLPejQ": {
+  "id": "jTHLLPejQ",
+  "content": "reservoir dogs",
+  "children": []
+ },
+ "fITviEwf2": {
+  "id": "fITviEwf2",
+  "content": "once upon a time in hollywood",
+  "children": []
+ },
+ "lA3QkqJ6Z": {
+  "id": "lA3QkqJ6Z",
+  "content": "dead poets society",
+  "children": []
+ },
+ "1pAwrwztp": {
+  "id": "1pAwrwztp",
+  "content": "https://www.youtube.com/user/bgfilms",
+  "children": []
+ },
+ "HJRBBti-C": {
+  "id": "HJRBBti-C",
+  "content": "maangchi",
+  "children": [
+   "4hs9_Fq8t"
+  ]
+ },
+ "4hs9_Fq8t": {
+  "id": "4hs9_Fq8t",
+  "content": "https://www.youtube.com/user/Maangchi",
+  "children": []
+ },
+ "nLmXkrZ45": {
+  "id": "nLmXkrZ45",
+  "content": "j. kenji lópez-alt",
+  "children": [
+   "dCIMUP3Jy"
+  ]
+ },
+ "dCIMUP3Jy": {
+  "id": "dCIMUP3Jy",
+  "content": "https://www.youtube.com/user/kenjialt",
+  "children": []
+ },
+ "SgoS41Gsw": {
+  "id": "SgoS41Gsw",
+  "content": "grand designs australia",
+  "children": []
+ },
+ "Tp2bWpzPN": {
+  "id": "Tp2bWpzPN",
+  "content": "i am bolt",
+  "children": []
+ },
+ "nnKrp6ri-": {
+  "id": "nnKrp6ri-",
+  "content": "",
+  "children": []
  }
 }

@@ -12,17 +12,20 @@
   "content": "projects",
   "children": [
    "zMrLxrGkK",
-   "r7tj1jesZ",
+   "C5WeaZ3L8",
    "yWV9Z98Cv",
-   "C5WeaZ3L8"
+   "r7tj1jesZ"
   ]
  },
  "L_lJ0-P-U": {
   "id": "L_lJ0-P-U",
   "content": "timeline",
   "children": [
+   "ZPMb1n00c",
    "EfkoBSl2m",
    "JOd7ra-O6",
+   "dNUiShtcr",
+   "TU_xM3ibJ",
    "1uFHCMVEA"
   ]
  },
@@ -101,7 +104,7 @@
  },
  "1uFHCMVEA": {
   "id": "1uFHCMVEA",
-  "content": "1/8/2020 - started writing a mindfulness essay",
+  "content": "1/8/2020 - writing - started writing practicing mindfulness",
   "children": [
    "iVDyenL4r"
   ]
@@ -263,7 +266,8 @@
   "id": "zMrLxrGkK",
   "content": "writing",
   "children": [
-   "iVDyenL4r"
+   "mziFQvCa9",
+   "X4xqOpee5"
   ]
  },
  "iVDyenL4r": {
@@ -735,6 +739,64 @@
  "FQdMk6dQ0": {
   "id": "FQdMk6dQ0",
   "content": "https://github.com/cadbox1/node-api-2020",
+  "children": []
+ },
+ "A6t7XsAHg": {
+  "id": "A6t7XsAHg",
+  "content": "i write notes",
+  "children": [
+   "7EP8QqgQe"
+  ]
+ },
+ "7EP8QqgQe": {
+  "id": "7EP8QqgQe",
+  "content": "https://cadell.dev/blog/i-write-notes/",
+  "children": []
+ },
+ "-xcVwCVqA": {
+  "id": "-xcVwCVqA",
+  "content": "on writing",
+  "children": [
+   "N20_094WD"
+  ]
+ },
+ "N20_094WD": {
+  "id": "N20_094WD",
+  "content": "https://cadell.dev/blog/on-writing/",
+  "children": []
+ },
+ "dNUiShtcr": {
+  "id": "dNUiShtcr",
+  "content": "22/7/2021 - writing - published on writing",
+  "children": [
+   "-xcVwCVqA"
+  ]
+ },
+ "X4xqOpee5": {
+  "id": "X4xqOpee5",
+  "content": "published",
+  "children": [
+   "-xcVwCVqA",
+   "A6t7XsAHg"
+  ]
+ },
+ "mziFQvCa9": {
+  "id": "mziFQvCa9",
+  "content": "in progress",
+  "children": [
+   "iVDyenL4r"
+  ]
+ },
+ "TU_xM3ibJ": {
+  "id": "TU_xM3ibJ",
+  "content": "23/6/2021 - writing - published i write notes",
+  "children": [
+   "A6t7XsAHg"
+  ]
+ },
+ "ZPMb1n00c": {
+  "id": "ZPMb1n00c",
+  "content": "8/8/2021 - created github project",
   "children": []
  }
 }

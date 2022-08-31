@@ -1055,7 +1055,9 @@
   "content": "boiling eggs and cooking rice",
   "children": [
    "kc7r2sFP3",
-   "s0nn8sUNx"
+   "s0nn8sUNx",
+   "moy_syuj1",
+   "mRn5goNDs"
   ]
  },
  "kc7r2sFP3": {
@@ -1066,6 +1068,16 @@
  "s0nn8sUNx": {
   "id": "s0nn8sUNx",
   "content": "cook eggs for 12 mins",
+  "children": []
+ },
+ "moy_syuj1": {
+  "id": "moy_syuj1",
+  "content": "1:1:2 quinoa to brown rice to water",
+  "children": []
+ },
+ "mRn5goNDs": {
+  "id": "mRn5goNDs",
+  "content": "1:1 tuna to rice/quinoa mix",
   "children": []
  }
 }

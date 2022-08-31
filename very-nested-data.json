@@ -14,7 +14,8 @@
    "zMrLxrGkK",
    "C5WeaZ3L8",
    "yWV9Z98Cv",
-   "r7tj1jesZ"
+   "r7tj1jesZ",
+   "CNXmrSMUW"
   ]
  },
  "L_lJ0-P-U": {
@@ -1040,6 +1041,31 @@
  "JkaflXRu4": {
   "id": "JkaflXRu4",
   "content": "lock stock and two smoking barrels",
+  "children": []
+ },
+ "CNXmrSMUW": {
+  "id": "CNXmrSMUW",
+  "content": "cooking",
+  "children": [
+   "AySC3rh9c"
+  ]
+ },
+ "AySC3rh9c": {
+  "id": "AySC3rh9c",
+  "content": "boiling eggs and cooking rice",
+  "children": [
+   "kc7r2sFP3",
+   "s0nn8sUNx"
+  ]
+ },
+ "kc7r2sFP3": {
+  "id": "kc7r2sFP3",
+  "content": "adds eggs to boiling water",
+  "children": []
+ },
+ "s0nn8sUNx": {
+  "id": "s0nn8sUNx",
+  "content": "cook eggs for 13 mins",
   "children": []
  }
 }
